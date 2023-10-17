@@ -29,7 +29,7 @@ Bellow find a series of screenshuts of the final application:
 
 Home Page:
 
-![Alt text](image-5.png)
+![Alt text](image-2.png)
 
 Reviews Page:
 
@@ -41,8 +41,7 @@ Search Component:
 
 
 Slug Review Page:
-
-![Alt text](image-6.png)
+![Alt text](indie4.png)
 
 About Page:
 
