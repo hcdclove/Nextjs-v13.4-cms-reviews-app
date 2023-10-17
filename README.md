@@ -1,4 +1,4 @@
-This app is a fullstack application build using Nextjs version 13.4 to access the gaming reviews of an epic indie game review system hosted on the Content Management System, "Strapi", to test the new features of Nextjs (Version 13.4).
+This app is a fullstack application built using Nextjs version 13.4 to access the gaming reviews of an epic indie game review system hosted on the Content Management System, "Strapi", to test the new features of Nextjs (Version 13.4).
 
 Overall, I found the new NextJs version 13 to be quite impresive!  
 
