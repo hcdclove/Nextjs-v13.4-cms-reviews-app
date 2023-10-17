@@ -28,15 +28,21 @@ For Tech Stack, I sued Typescript and NextJS version 13.4. For styling, I used t
 Bellow find a series of screenshuts of the final application:
 
 Home Page:
-![Alt text](image.png)
+
+![Alt text](image-5.png)
 
 Reviews Page:
 
 ![Alt text](image-1.png)
 
+Search Component:
+
+![Alt text](image-4.png)
+
+
 Slug Review Page:
 
-![Alt text](image-2.png)
+![Alt text](image-6.png)
 
 About Page:
 
