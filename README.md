@@ -29,7 +29,7 @@ Bellow find a series of screenshuts of the final application:
 
 Home Page:
 
-![Alt text](image-2.png)
+![Alt text](image.png)
 
 Reviews Page:
 
