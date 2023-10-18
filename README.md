@@ -15,9 +15,9 @@ Async components are a new method of data collecting for server-rendered compone
 
 If a Promise-returning external service or API needs to be queried for data, we can declare the component as async and wait for the outcome.
 
-New Image COmponent:
+New Image Component:
 
-Less client-side JavaScript, styling and configuration, and increased accessibility are all features of the new Image component in Next.js. 
+1. Support for client-side JavaScript, styling and configuration, and increased accessibility are all features of the new Image component in Next.js version 13. 
 
 2. @next/font:
 
@@ -25,7 +25,7 @@ The new @next/font allows you to use Google Fonts (or any custom font) without t
 
 For Tech Stack, I used Typescript and NextJS version 13.4. For styling, I used tailwindcss and headlessui with the fonts Orbitron and  Exo_2.
 
-Bellow find a series of screenshuts of the final application:
+Screenshuts of the final application:
 
 Home Page:
 
