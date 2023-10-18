@@ -1,7 +1,7 @@
 This app is a fullstack application built using Nextjs version 13.4 to access the gaming reviews of an epic indie game review system hosted on the Content Management System, "Strapi", to test the new features of Nextjs (Version 13.4).
 
 Overall, I found the new NextJs version 13 to be quite impresive!  
-
+ 
 The ability to leverage server side rendering while still being able to use useEffect hooks on the client side to selectibly load data into components gives the best of both worlds.  In short, it is a game-changer for data handling as we can now employ server components to quickly load, non-interactive portions of our applications while relying on client side components for interactivity, browser APIs & more.
 
 App/Directory for File-Based Routing:
